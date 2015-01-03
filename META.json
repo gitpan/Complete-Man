@@ -58,7 +58,7 @@
          "web" : "https://github.com/perlancar/perl-Complete-Man"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_Dist_Zilla" : {
       "perl" : {
          "version" : "5.018002"
@@ -375,6 +375,11 @@
          {
             "class" : "Dist::Zilla::Plugin::Test::Rinci",
             "name" : "@Author::PERLANCAR/Test::Rinci",
+            "version" : "0.01"
+         },
+         {
+            "class" : "Dist::Zilla::Plugin::PERLANCAR::GenTodoMd",
+            "name" : "@Author::PERLANCAR/PERLANCAR::GenTodoMd",
             "version" : "0.01"
          },
          {

@@ -1,7 +1,7 @@
 package Complete::Man;
 
-our $DATE = '2014-12-30'; # DATE
-our $VERSION = '0.01'; # VERSION
+our $DATE = '2015-01-03'; # DATE
+our $VERSION = '0.02'; # VERSION
 
 use 5.010001;
 use strict;
@@ -96,7 +96,7 @@ Complete::Man - Complete from list of available manpages
 
 =head1 VERSION
 
-This document describes version 0.01 of Complete::Man (from Perl distribution Complete-Man), released on 2015-12-30.
+This document describes version 0.02 of Complete::Man (from Perl distribution Complete-Man), released on 2015-01-03.
 
 =head1 SYNOPSIS
 
@@ -135,14 +135,7 @@ Only search from this section.
 
 =back
 
-Return value:
-
- (any)
-
-=head1 TODO
-
-Read/parse C<index.db>
-
+Return value:  (any)
 =head1 HOMEPAGE
 
 Please visit the project's homepage at L<https://metacpan.org/release/Complete-Man>.
@@ -165,7 +158,7 @@ perlancar <perlancar@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2014 by perlancar@cpan.org.
+This software is copyright (c) 2015 by perlancar@cpan.org.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.

@@ -9,7 +9,3 @@ SYNOPSIS
      $res = complete_manpage(word => 'gre', section => 1);
      # -> ['grep', 'grep-changelog', 'greytiff']
 
-TODO
-
-    Read/parse index.db
-
